@@ -19,7 +19,6 @@ cd New_CS_Research
 # Or download as ZIP from the GitHub page and extract.
 ```
 ## Running the Notebook
-Running the Notebook
 1. Make sure the data files are available in the data/ folder.
 
 2. Open CNN_convulation.ipynb either locally in Jupyter Notebook or on Google Colab:
