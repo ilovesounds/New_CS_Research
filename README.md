@@ -16,4 +16,4 @@ This repository contains research notebooks, reports, and data for convolutional
 ``` bash
 git clone https://github.com/ilovesounds/New_CS_Research.git
 cd New_CS_Research
-
+# Or download as ZIP from the GitHub page and extract.
