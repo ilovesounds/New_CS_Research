@@ -1,7 +1,7 @@
 # New_CS_Research
 
 This repository contains research notebooks, reports, and data for convolutional neural network (CNN) experiments.
-File Structure 
+### File Structure 
 ```
 ├── Reports/                  
 ├── Screenshots/              
