@@ -9,5 +9,11 @@ This repository contains research notebooks, reports, and data for convolutional
 ├── CNN_convulation/          
 ├── CNN_convulation.ipynb     
 └── README.md
-```               
-How to Clone the Repository
+```
+
+### Getting Started
+## How to Clone the Repository
+``` bash
+git clone https://github.com/ilovesounds/New_CS_Research.git
+cd New_CS_Research
+
